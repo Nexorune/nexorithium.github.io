@@ -1,4 +1,4 @@
-# 谢以波 · Nexorithium
+# Nexorithium
 
 简洁的个人主页，使用原生 HTML / CSS / JavaScript，无第三方运行依赖，无构建步骤。
 
