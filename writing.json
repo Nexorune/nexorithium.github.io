@@ -1,0 +1,20 @@
+[
+  {
+    "id": "placeholder-01",
+    "status": "placeholder",
+    "title": "第一篇文章的位置",
+    "summary": "整理后展示真实标题、摘要与原文链接。",
+    "category": "公众号文章",
+    "date": null,
+    "url": null
+  },
+  {
+    "id": "placeholder-02",
+    "status": "placeholder",
+    "title": "为新的思考留白",
+    "summary": "这里会持续收录后续整理的公众号文章。",
+    "category": "公众号文章",
+    "date": null,
+    "url": null
+  }
+]
