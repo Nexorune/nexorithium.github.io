@@ -1,20 +1,47 @@
 [
   {
-    "id": "placeholder-01",
-    "status": "placeholder",
-    "title": "第一篇文章的位置",
-    "summary": "整理后展示真实标题、摘要与原文链接。",
-    "category": "公众号文章",
-    "date": null,
-    "url": null
+    "id": "Bh6ElPA9vYIsEECg3onYxQ",
+    "status": "published",
+    "title": "微信处置2633条违规短视频，AI创作该靠什么留住人",
+    "summary": "从 AI 魔改短视频谈起，讨论创作者如何靠故事留住观众，以及平台如何讲清治理边界。",
+    "category": "迭元 · 公众号文章",
+    "date": "2026-09-06",
+    "url": "https://mp.weixin.qq.com/s/Bh6ElPA9vYIsEECg3onYxQ"
   },
   {
-    "id": "placeholder-02",
-    "status": "placeholder",
-    "title": "为新的思考留白",
-    "summary": "这里会持续收录后续整理的公众号文章。",
-    "category": "公众号文章",
-    "date": null,
-    "url": null
+    "id": "vSYh5y6Q1Q5NXeNHpIBiDA",
+    "status": "published",
+    "title": "提示词越写越长，我离问题却越来越远",
+    "summary": "会写提示词不等于会解决问题。当执行变得便宜，判断、拆解、验证和对结果负责更值得重视。",
+    "category": "迭元 · 公众号文章",
+    "date": "2026-09-03",
+    "url": "https://mp.weixin.qq.com/s/vSYh5y6Q1Q5NXeNHpIBiDA"
+  },
+  {
+    "id": "9c19pb6d5qvYrvLsVaKh0g",
+    "status": "published",
+    "title": "AI 要从屏幕里走出来了，英伟达把下一场战争押在机器人身上",
+    "summary": "从机器人、汽车到工厂，探讨英伟达的 Physical AI 布局，以及落地过程中的数据、安全与成本问题。",
+    "category": "迭元 · 公众号文章",
+    "date": "2026-08-31",
+    "url": "https://mp.weixin.qq.com/s/9c19pb6d5qvYrvLsVaKh0g"
+  },
+  {
+    "id": "8d-6UIIc2DB5rIKkJ_AP-w",
+    "status": "published",
+    "title": "OpenAI 要和 Cursor 分手了，AI 编程工具开始补上最贵的一课",
+    "summary": "围绕 OpenAI 与 Cursor 的合作变化，讨论模型供应依赖、多模型架构与开发者工作流的连续性。",
+    "category": "迭元 · 公众号文章",
+    "date": "2026-08-30",
+    "url": "https://mp.weixin.qq.com/s/8d-6UIIc2DB5rIKkJ_AP-w"
+  },
+  {
+    "id": "7Iv1xOy2tLXDPlUE-awRTQ",
+    "status": "published",
+    "title": "AI Agent 越过沙盒，OpenAI 为什么按下训练暂停键",
+    "summary": "梳理文章所述的 Agent 越界事件，讨论权限隔离、行为监控和安全停止机制为何需要一起发挥作用。",
+    "category": "迭元 · 公众号文章",
+    "date": "2026-08-30",
+    "url": "https://mp.weixin.qq.com/s/7Iv1xOy2tLXDPlUE-awRTQ"
   }
 ]
