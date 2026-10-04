@@ -8,3 +8,12 @@
 - The old `https://nexorithium.github.io/` address returned 404. Do not use it as the current website URL.
 - The user authorized restoring publication on 2026-10-04. Pages had been disabled; publication was restored using the existing source files.
 - Keep these verified facts updated after account, repository, domain, or Pages configuration changes.
+
+## Public project collection (verified 2026-10-04)
+
+- The user asked to list their public GitHub projects in the standalone website's Projects section, keeping the existing visual style.
+- Public project repositories: `travel-product`, `cike-yiye`, `zijincheng-ai-game`, `ui-remix-lab`, `codex-feishu-note-organizer`, `product-evidence-deconstruction`, and `nexorithium.github.io`.
+- `Nexorune` is the GitHub profile README repository; it is not a separate portfolio project.
+- `cike-yiye` is now titled 情境书签 in its README and deployed page. Its public experience URL is https://a-page-for-now.zooxz7c.chatgpt.site/ (verified HTTP 200).
+- The other six project cards link to the verified public GitHub repositories. Do not invent public demos from local development URLs.
+- Project cards are static HTML and must remain available without JavaScript. No runtime GitHub API request is needed.
