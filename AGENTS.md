@@ -17,3 +17,4 @@
 - `cike-yiye` is now titled 情境书签 in its README and deployed page. Its public experience URL is https://a-page-for-now.zooxz7c.chatgpt.site/ (verified HTTP 200).
 - The other six project cards link to the verified public GitHub repositories. Do not invent public demos from local development URLs.
 - Project cards are static HTML and must remain available without JavaScript. No runtime GitHub API request is needed.
+- The stylesheet URL uses a release query (`?v=20261004-projects`) because GitHub Pages responses can remain cached for 10 minutes. Update the release query when changing CSS so existing visitors receive the new layout.
