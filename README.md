@@ -2,7 +2,7 @@
 
 简洁的个人主页，使用原生 HTML / CSS / JavaScript，无第三方运行依赖，无构建步骤。
 
-网站：https://nexorithium.github.io/
+网站：https://nexorune.github.io/nexorithium.github.io/
 
 ## 本地预览
 
@@ -40,9 +40,9 @@
 
 ## GitHub Pages
 
-仓库为 `nexorithium/nexorithium.github.io` 时，在仓库 Settings → Pages 中选择 **Deploy from a branch**，分支 `main`、目录 `/ (root)`。保存后等待 GitHub Pages 发布。本项目已提供 `.nojekyll`，不需要构建工具。
+仓库为 `Nexorune/nexorithium.github.io` 时，在仓库 Settings → Pages 中选择 **Deploy from a branch**，分支 `main`、目录 `/ (root)`。保存后等待 GitHub Pages 发布。本项目已提供 `.nojekyll`，不需要构建工具。
 
-如果以后换域名，请同步更新 `index.html` 中的 canonical、Open Graph、JSON-LD，以及 `robots.txt` 和 `sitemap.xml`。`404.html` 使用域名根路径，适用于当前用户主页部署。
+如果以后换域名，请同步更新 `index.html` 中的 canonical、Open Graph、JSON-LD，以及 `robots.txt` 和 `sitemap.xml`。`404.html` 使用 `/nexorithium.github.io/` 项目路径，适用于当前项目站点部署。
 
 ## 设计与事实边界
 

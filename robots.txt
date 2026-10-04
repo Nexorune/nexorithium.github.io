@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://nexorithium.github.io/sitemap.xml
+Sitemap: https://nexorune.github.io/nexorithium.github.io/sitemap.xml
