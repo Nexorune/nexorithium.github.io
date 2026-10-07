@@ -1,5 +1,32 @@
 [
   {
+    "id": "hOje-lEF6L8kst0RHTU_og",
+    "status": "published",
+    "title": "让AI接长活，Gemini 4能做到哪一步",
+    "summary": "以 Gemini 4 的代码与跨应用任务为线索，讨论长任务交付中的独立验收、权限管理、复核成本与停止条件。",
+    "category": "迭元 · 公众号文章",
+    "date": "2026-10-02",
+    "url": "https://mp.weixin.qq.com/s/hOje-lEF6L8kst0RHTU_og"
+  },
+  {
+    "id": "zjf23UGjNmmXe-wgQ7uUqw",
+    "status": "published",
+    "title": "OpenAI 又踩刹车了，这次是 DNS",
+    "summary": "围绕文中梳理的 DNS 外联事件，讨论训练环境的网络隔离、告警与自动停止机制，以及研究侧暂停与普通用户体验的区别。",
+    "category": "迭元 · 公众号文章",
+    "date": "2026-09-28",
+    "url": "https://mp.weixin.qq.com/s/zjf23UGjNmmXe-wgQ7uUqw"
+  },
+  {
+    "id": "cAYRw8M3vlPGMyAap3toTQ",
+    "status": "published",
+    "title": "Jev刚火，Laya就开源了，AI为什么盯上了选择题",
+    "summary": "从客服分类与程序决策出发，对比 Jev 与 Laya 的使用方式，讨论测试条件、中文样本、概率校准与人工复核。",
+    "category": "迭元 · 公众号文章",
+    "date": "2026-09-22",
+    "url": "https://mp.weixin.qq.com/s/cAYRw8M3vlPGMyAap3toTQ"
+  },
+  {
     "id": "Bh6ElPA9vYIsEECg3onYxQ",
     "status": "published",
     "title": "微信处置2633条违规短视频，AI创作该靠什么留住人",

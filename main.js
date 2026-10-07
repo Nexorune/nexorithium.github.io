@@ -1,7 +1,7 @@
 'use strict';
 document.getElementById('year').textContent = new Date().getFullYear();
 // Keep the initial HTML as a useful fallback when scripts or the data request fail.
-fetch('writing.json').then(response => {
+fetch('writing.json?v=20261007-writing').then(response => {
   if (!response.ok) throw new Error('Writing data unavailable');
   return response.json();
 }).then(articles => {
